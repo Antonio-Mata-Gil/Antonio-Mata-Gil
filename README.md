@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola, soy Antonio Mata 👋
 
-<!--
-**Antonio-Mata-Gil/Antonio-Mata-Gil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un apasionado diseñador y desarrollador front-end con un enfoque en crear experiencias web cautivadoras y funcionales. Mi objetivo es combinar el diseño creativo con un código robusto para llevar a cabo proyectos excepcionales.
 
-Here are some ideas to get you started:
+## Habilidades
+### Diseño
+- Adobe Photoshop 🎨
+- Adobe Illustrator ✒️
+- Adobe InDesign 📝
+- Figma 🖌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desarrollo
+- JavaScript 💻
+- Angular 🅰️
+- React ⚛️
+- WordPress 📰
+
+¡No dudes en contactarme para colaboraciones o discutir ideas en diseño y desarrollo web!
