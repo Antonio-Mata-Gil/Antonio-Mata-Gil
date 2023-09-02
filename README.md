@@ -1,19 +1,19 @@
-# Hola, soy Antonio Mata 👋
+# Hi, I'm Antonio Mata 👋
 
-## Acerca de mí
-Soy un apasionado diseñador y desarrollador front-end con un enfoque en crear experiencias web cautivadoras y funcionales. Mi objetivo es combinar el diseño creativo con un código robusto para llevar a cabo proyectos excepcionales.
+## About Me
+I'm a passionate designer and front-end developer with a focus on creating captivating and functional web experiences. My goal is to blend creative design with robust code to bring exceptional projects to life.
 
-## Habilidades
-### Diseño
+## Skills
+### Design
 - Adobe Photoshop 🎨
 - Adobe Illustrator ✒️
 - Adobe InDesign 📝
 - Figma 🖌️
 
-### Desarrollo
+### Development
 - JavaScript 💻
 - Angular 🅰️
 - React ⚛️
 - WordPress 📰
 
-¡No dudes en contactarme para colaboraciones o discutir ideas en diseño y desarrollo web!
+Feel free to reach out to me for collaborations or to discuss ideas in web design and development!
